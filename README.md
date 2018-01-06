@@ -5,6 +5,6 @@ This project returns the name of virtually any number passed to it.
 
 For example: 
 * 4 -> four
-* 999 -> Nine hundred ninety-nine
+* 999 -> nine hundred ninety-nine
 	
 
