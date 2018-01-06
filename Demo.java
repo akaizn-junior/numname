@@ -1,20 +1,14 @@
-package number;
 import java.util.Scanner;
 
-public class Driver {
+public class Demo {
 
-	public static void main(String args[]){
-		
-		//for(int i=0; i <= 100; i++)
-			//System.out.println(NumberName.read(i));
-	
+	public static void main(String args[])
+	{	
 		Scanner input = new Scanner(System.in);
-		System.out.println("**** Welcome to Number Name ******");
+		System.out.println("**** Numname ******");
 		System.out.print("Insert a number: ");
 		Integer num = input.nextInt();
 
-		System.out.print("The number reads to: "+NumberName.read(num)+"\n");
-
+		System.out.print("The number is: " + Numname.read(num) + "\n");
 	}
-	
 }

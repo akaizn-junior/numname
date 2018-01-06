@@ -1,6 +1,4 @@
-package number;
-
-public class NumberName {
+public class Numname {
 
 	
 	public static String read(String numstr)
