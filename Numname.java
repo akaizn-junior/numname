@@ -26,11 +26,6 @@ public class Numname {
 		return null;
 	}
 	
-	public static String romanname(){
-		
-		return "";
-	}
-	
 	private static String lessthan1000(int num){
 		int div = num / 100;
 		int mod = num % 100;
