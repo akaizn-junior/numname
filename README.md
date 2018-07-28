@@ -1,7 +1,5 @@
-# Numname
-## A cool calculator add-on.
-
-This project returns the name of virtually any number passed to it.
+# Numname v0.10.0
+## Get the name of virtually any number.
 
 For example: 
 * 4 -> four
