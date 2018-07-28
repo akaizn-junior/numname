@@ -1,5 +1,5 @@
 # Numname v0.1.0
-## Get the name of virtually any number.
+## Get the name of virtually any integer.
 
 For example: 
 * 4 -> four
