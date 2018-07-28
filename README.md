@@ -1,4 +1,4 @@
-# Numname v0.10.0
+# Numname v0.1.0
 ## Get the name of virtually any number.
 
 For example: 
