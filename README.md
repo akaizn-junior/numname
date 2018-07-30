@@ -6,4 +6,4 @@ For example:
 * 999 -> nine hundred ninety-nine
 * "3" -> three 
 	
-
+Copyright &copy; 2017 Simao Nziaka
